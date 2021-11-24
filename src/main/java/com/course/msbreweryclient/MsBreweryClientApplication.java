@@ -1,4 +1,4 @@
-package com.example.msbreweryclient;
+package com.course.msbreweryclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
